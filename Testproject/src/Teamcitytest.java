@@ -11,7 +11,7 @@ System.out.println("This is my first");
 System.setProperty("webdriver.chrome.driver","C:\\Users\\CLV Prasad\\Downloads\\CA\\chrome\\chromedriver.exe");
 WebDriver driver = new ChromeDriver();
 driver.get("http://google.co.za");
-
+driver.get("http://google.co.za");
 System.out.println(driver.getTitle());
 	}
 
