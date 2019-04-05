@@ -9,7 +9,7 @@ public class Teamcitytest {
 		// TODO Auto-generated method stub
 System.out.println("This is my first");
 //C:\Users\CLV Prasad\Downloads\CA\chrome
-System.setProperty("webdriver.IternetExplorer.driver","C:\\Users\\CLV Prasad\\Downloads\\CA\\IEDriver\\IEDriverServer.exe");
+System.setProperty("webdriver.InternetExplorer.driver","C:\\Users\\CLV Prasad\\Downloads\\CA\\IEDriver\\IEDriverServer.exe");
 WebDriver driver = new InternetExplorerDriver();
 driver.get("http://google.co.za");
 driver.get("http://google.co.za");
