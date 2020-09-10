@@ -15,4 +15,10 @@ public void postTesting()
 {
 	System.out.println("This is post");
 }
+
+
+	public void pullTesting()
+	{
+		System.out.println("This is pull");
+	}
 }
